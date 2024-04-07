@@ -1,13 +1,3 @@
-/********************
- * <copyright information>
- * AUTHOR: Michael (Micky) Mangrobang
- * COURSE: ICS 212 Program Structure
- * INSTRUCTOR: Ravi Narayan
- * DATE CREATED: 21 November 2015
- * REVISIONS: 08 June 2018
- * FILE: llist.cpp
- * DESC: Source file that contains all functions of the llist header
- ********************/
 #include <iostream>
 #include <fstream>
 #include <string>
