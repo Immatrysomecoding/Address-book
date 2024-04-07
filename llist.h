@@ -1,12 +1,3 @@
-/********************
- * <copyright information>
- * COURSE: ICS 212 Program Structure
- * INSTRUCTOR: Ravi Narayan
- * DATE CREATED: 21 November 2015
- * REVISIONS: 08 June 2018 (Micky)
- * FILE: llist.h
- * DESC: Header for llist class, given by Ravi, edited me by
- ********************/
 #ifndef LLIST_H
 #define LLIST_H
 #include <string>
