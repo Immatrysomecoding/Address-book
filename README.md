@@ -1,4 +1,4 @@
-# Interior Shopping Website
+# Address book
 
 ## Table of Contents
 1. [Project Description](#project-description)
