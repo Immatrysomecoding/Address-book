@@ -21,13 +21,12 @@ The whole idea is to allow users to:
 -Linked-List
 
 ## Project Structure
-
--address_book.cpp
--address_book.h
--address_book_main.cpp
--llist.cpp
--llist.h
--project_02_display_messages.cpp
+- address_book.cpp
+- address_book.h
+- address_book_main.cpp
+- llist.cpp
+- llist.h
+- project_02_display_messages.cpp
 -record.h
 
 
